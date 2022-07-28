@@ -4,7 +4,7 @@ Utilizzo di una CGAN per aumentare le immagini che si ottengono dalla conversion
 
 Il template utilizzato è [LaTeXi](https://poros.github.io/LaTeXi/), basato sul pacchetto [TOPtesi](https://ctan.org/pkg/toptesi).
 
-Il progetto LaTeX ed il codice relativo all'elaborato saranno disponibili successivamente.
+Repository relativa all'elaborato: [dylzen/cgan_augmentation_custom_dataset](https://github.com/dylzen/cgan-augmentation-custom-dataset)
 
 ## Authors
 
